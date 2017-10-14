@@ -59,10 +59,12 @@ li {
 #photo1 {
   height: 200px;
   width: 200px;
+  float: right;
 }
 #photo2 {
   height: 200px;
   width: 200px;
+  float: right;
 }
 .boxmodel {
 border: 10px solid lightgrey;
